@@ -31,8 +31,8 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-### Name : LINGARAJA L
-### Ref No : 212222040086
+### Name : S MELVIN
+### Ref No : 212222040098
 
 ```python
 
